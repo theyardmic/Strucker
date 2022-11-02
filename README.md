@@ -4,7 +4,7 @@ A Project Management software for anyone working on a project in any industry; F
 
 The Software will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals.
 
-  ![Check it out](https://img.shields.io/badge/Strucker-Project%20Management%20System-blue) Html
+  ![Project Management System](strucker.netlify.app) 
 
 ## Authors
 
