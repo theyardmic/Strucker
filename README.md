@@ -12,14 +12,14 @@ The project is a project management software
 - [Lennox Matwere](https://www.github.com/strucker-eth/About-me)
 - [Brian Silah](https://github.com/unpervertedkid)
 - [Valentine Muchoki](https://github.com/strucker-eth/Project-305)
-- [Neville Ghali](https://www.github.com/neville-pillipe)
+- [Neville Ghali](https://www.github.com/neville-phillippe)
 - [Kalina Aseyo](https://github.com/strucker-eth/Project-305)
 - [Arnold Odhiambo](https://github.com/strucker-eth/Project-305)
 
 
 
 ## Roadmap
-The Project will be impemented using the Iterative incremental model.
+The Project will be impemented using the Iterative incremental model.Its SDLC roadmap is as follows:
 1. System conception.
 2. Requirement specification.
 3. Software design.
