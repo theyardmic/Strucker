@@ -4,6 +4,7 @@ A Project Management software for anyone working on a project in any industry; F
 
 The Software will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals.
 
+Check it out [here](https://project-management-software.herokuapp.com/)
 
 
 ## Authors
