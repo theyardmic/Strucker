@@ -118,6 +118,7 @@ The software is built on the following Stack:
 
 Back-end 
 - Java-spring boot
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 Database
 - MariaDB
 
