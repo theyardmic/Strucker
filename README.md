@@ -34,14 +34,14 @@ The Project will be impemented using the Iterative incremental model.Its SDLC ro
 
  
 ## 1. System Conception
-    Every project needs a Project Management tool that can easily manage the budget, quality and documentation for projects. 
+Every project needs a Project Management tool that can easily manage the budget, quality and documentation for projects. 
 
 The Project Management software will be a web application that will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals.
 
 PMs (Project Managers) can create a project schedule and track the progress.They can also  create a budget and track the project expenses all within one tool.
 The software also involves Stakeholders who can view the project progress and current expenditure from their dashboard.
 
-    The software's objectives include:
+The software's objectives include:
 
 1. Scheduling-The fundamental goal of scheduling is to arrange a sequence of activities or events, and the intricacy of the schedule can vary greatly depending on how the tool is applied.
 2. Handling project-related information - the project planning software will provide information to team members,Project Managers and stakeholders. 
