@@ -1,6 +1,6 @@
 # Project Management Software
 
-![alt text](/assets/img/skills.pngpurple%20and%20orange%20simple%20and%20minimalist%20zodiac%20digital%20technology%20services%20logo.png)
+![Logo](/assets/img/logo.png?raw=true)
 
 A Project Management software for anyone working on a project in any industry; Finance, tech, engineering, construction.
 
