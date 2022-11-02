@@ -111,16 +111,20 @@ Project
 The software is built on the following Stack:
 
  Front-End
-- Html
-- Css
+ - ![Html](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+- ![Css](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-- Bootstrap
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+
+
 
 Back-end 
-- Java-spring boot
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) Java-spring boot
+
 Database
-- MariaDB
+- ![MariaDB](https://img.shields.io/badge/mariadb-%2300f.svg?style=plastic&logo=mariadb&logoColor=white) MariaDB
+
+
 
 
 
