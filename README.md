@@ -1,6 +1,6 @@
 # Project Management Software
 
-![alt text](https://github.com/strucker-eth/Project-305/assets/img/logo.png?raw=true)
+![alt text](/assets/img/logo.png)
 
 A Project Management software for anyone working on a project in any industry; Finance, tech, engineering, construction.
 
