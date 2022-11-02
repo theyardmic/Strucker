@@ -4,7 +4,7 @@ A Project Management software for anyone working on a project in any industry; F
 
 The Software will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals.
 
-  ![Project Management System](strucker.netlify.app) 
+![Project Management System](strucker.netlify.app) 
 
 ## Authors
 
@@ -15,7 +15,7 @@ The Software will enable teams to manage tasks, resources/funds, communicate and
 - [Kalina Aseyo](https://github.com/strucker-eth/Project-305)
 - [Arnold Odhiambo](https://github.com/strucker-eth/Project-305)
 
-
+link to the project: [Project Management System](strucker.netlify.app)
 
 ## Roadmap
 The Project will be impemented using the Iterative incremental model.Its SDLC roadmap is as follows:
