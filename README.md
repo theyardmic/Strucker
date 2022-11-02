@@ -124,6 +124,14 @@ Back-end
 Database
 - ![MariaDB](https://img.shields.io/badge/mariadb-%2300f.svg?style=plastic&logo=mariadb&logoColor=white) MariaDB
 
+Version Control
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) Git
+
+Hosting 
+- ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=plastic&logo=netlify&logoColor=white) Netlify
+
+
+
 
 
 
