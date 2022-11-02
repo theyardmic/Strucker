@@ -2,12 +2,11 @@
 
 A Project Management software for anyone working on a project in any industry; Finance, tech, engineering, construction.
 
-It will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals
-The project is a project management software
+The Software will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals.
 
 
 
-## Contributors
+## Authors
 
 - [Lennox Matwere](https://www.github.com/strucker-eth/About-me)
 - [Brian Silah](https://github.com/unpervertedkid)
@@ -35,12 +34,90 @@ The Project will be impemented using the Iterative incremental model.Its SDLC ro
 
  
 ## 1. System Conception
-A need for people oriented project management software as more project fail to achieve their goals or aren't completed in time .
+    Every project needs a Project Management tool that can easily manage the budget, quality and documentation for projects. 
+
+The Project Management software will be a web application that will enable teams to manage tasks, resources/funds, communicate and ultimately achieve the project goals.
+
+PMs (Project Managers) can create a project schedule and track the progress.They can also  create a budget and track the project expenses all within one tool.
+The software also involves Stakeholders who can view the project progress and current expenditure from their dashboard.
+
+    The software's objectives include:
+
+1. Scheduling-The fundamental goal of scheduling is to arrange a sequence of activities or events, and the intricacy of the schedule can vary greatly depending on how the tool is applied.
+2. Handling project-related information - the project planning software will provide information to team members,Project Managers and stakeholders. 
+3. Acquire visibility and insight - from the software,you can view the deliverables, dependencies, scheduling drivers, and data changes for your project.
+4. Collaboration and communication - to share information and coordinate efforts among project teams to improve participation, progress reporting, and other project-related activities.
+
+    The Software will handle:
+- Task management.
+-  Resource management.
+- Collaboration.
+- File sharing.
+- Project planning.
+
 
 ## 2. Requirement specification
-The software will handle:
-I) Task management.
-II) Resource management.
-III) Collaboration.
-IV) File sharing.
-V) Project planning.
+Planning tools
+- Calendars
+- Gantt charts
+- Milestones
+
+Resource management
+- Project Files
+- Project Budget
+
+Task management
+- Task inter-dependencies
+
+Time management
+- Hourly billing
+- Weekly timesheet reviews
+- Time tracking
+
+Collaboration tools
+-Online chat/conference tools,
+- File sharing
+- Tiered access
+
+
+## 3. Software Design
+The main components of the software are:
+- User
+- Team 
+- Project
+- Task
+The above components should have following
+- User
+- Username
+- Password
+- Name 
+- Email
+Here's a breakdown of the main components.
+
+ Team
+- Id
+- Name 
+- Description
+- Members
+Project
+- Name 
+- Date created
+- Date to be finished by
+- Description
+- Members (the ones to do the tasks) (can be one or many)
+
+
+# 3.1 Tech Stack
+The software is built on the following Stack:
+ Front-End
+- Html
+- Css
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+- Bootstrap
+Back-end 
+- Java-spring boot
+Database
+- MariaDB
+
+
+
