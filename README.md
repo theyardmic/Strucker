@@ -109,11 +109,13 @@ Project
 
 # 3.1 Tech Stack
 The software is built on the following Stack:
+
  Front-End
 - Html
 - Css
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 - Bootstrap
+
 Back-end 
 - Java-spring boot
 Database
