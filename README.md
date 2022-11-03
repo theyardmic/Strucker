@@ -46,7 +46,7 @@ The software also involves Stakeholders who can view the project progress and cu
 The software's objectives include:
 
 1. To make Project Planning and Scheduling easier.
-2. Handling project-related information - the project planning software will provide information to team members,Project Managers and stakeholders. 
+2. To Handle Project-related Information - the project planning software will provide information to team members,Project Managers and stakeholders. 
 3. Acquire visibility and insight - from the software,you can view the deliverables, dependencies, scheduling drivers, and data changes for your project.
 4. Collaboration and communication - to share information and coordinate efforts among project teams to improve participation, progress reporting, and other project-related activities.
 
