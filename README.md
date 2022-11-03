@@ -50,7 +50,7 @@ The software's objectives include:
 3. To provide data analytics and insights - from the software,you can view the deliverables, dependencies, scheduling drivers, and data changes for your project.
 4. Collaboration and communication - to share information and coordinate efforts among project teams to improve participation, progress reporting, and other project-related activities.
 
-    The Software will handle:
+    Therefore,the Software will handle:
 - Task management.
 -  Resource management.
 - Collaboration.
