@@ -15,7 +15,7 @@ Check it out at: [Project Management System](https://strucker.netlify.app/)
 - [Valentine Muchoki](https://github.com/strucker-eth/Project-305)
 - [Neville Ghali](https://www.github.com/neville-phillippe)
 - [Kalina Aseyo](https://github.com/strucker-eth/Project-305)
-- [Arnold Odhiambo](https://github.com/strucker-eth/Project-305)
+- [Arnold Odhiambo](https://github.com/ArnoldBilloh)
 
 
 
