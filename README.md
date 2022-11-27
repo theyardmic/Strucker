@@ -8,14 +8,9 @@ The Software will enable teams to manage tasks, resources/funds, communicate and
 
 Check it out at: [Project Management System](https://strucker.netlify.app/)
 
-## Authors
+## Builder
 
 - [Lennox Matwere](https://www.github.com/strucker-eth/About-me)
-- [Brian Silah](https://github.com/unpervertedkid)
-- [Valentine Muchoki](https://github.com/strucker-eth/Project-305)
-- [Neville Ghali](https://www.github.com/neville-phillippe)
-- [Kalina Aseyo](https://github.com/strucker-eth/Project-305)
-- [Arnold Odhiambo](https://github.com/ArnoldBilloh)
 
 
 
@@ -30,8 +25,6 @@ The Project will be impemented using the Iterative incremental model.Its SDLC ro
 7. Software Quality assurance.
 8. System installation.
 9. Software maintainance.
-
-
 
 
  
