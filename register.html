@@ -1,55 +1,68 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Register - Brand</title>
-    <link rel="stylesheet" href="/asssets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/asssets/css/Nunito.css">
-    <link rel="stylesheet" href="/asssets/fonts/fontawesome-all.min.css">
-    <link rel="stylesheet" href="/asssets/css/untitled.css">
-    <!-- Favicons -->
-  <link href="assets/img/favicon.png" height="200px" width="500px" rel="icon">
-  <link href="assets/img/favicon.png" height="200px" width="500px" rel="apple-touch-icon">
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport">
+	<title>Register - Brand</title>
+	<link href="/asssets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/asssets/css/Nunito.css" rel="stylesheet">
+	<link href="/asssets/fonts/fontawesome-all.min.css" rel="stylesheet">
+	<link href="/asssets/css/untitled.css" rel="stylesheet"><!-- Favicons -->
+	<link href="assets/img/favicon.png" rel="icon">
+	<link href="assets/img/favicon.png" rel="apple-touch-icon">
 </head>
-
 <body class="bg-gradient-primary">
-    <div class="container">
-        <div class="card shadow-lg o-hidden border-0 my-5">
-            <div class="card-body p-0">
-                <div class="row">
-                    <div class="col-lg-5 d-none d-lg-flex">
-                        <div class="flex-grow-1 bg-register-image" style="background-image: url(&quot;/asssets/img/dogs/86-Service.png&quot;);padding-left: 20px;margin-right: -33px;margin-left: 32px;"></div>
-                    </div>
-                    <div class="col-lg-7">
-                        <div class="p-5">
-                            <div class="text-center">
-                                <h4 class="text-dark mb-4">Hello, Let's set up your Account!</h4>
-                            </div>
-                            <form class="user">
-                                <div class="row mb-3">
-                                    <div class="col-sm-6 mb-3 mb-sm-0"><input class="form-control form-control-user" type="text" id="exampleFirstName" placeholder="First Name" name="first_name"></div>
-                                    <div class="col-sm-6"><input class="form-control form-control-user" type="text" id="exampleFirstName" placeholder="Last Name" name="last_name"></div>
-                                </div>
-                                <div class="mb-3"><input class="form-control form-control-user" type="email" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Email Address" name="email"></div>
-                                <div class="row mb-3">
-                                    <div class="col-sm-6 mb-3 mb-sm-0"><input class="form-control form-control-user" type="password" id="examplePasswordInput" placeholder="Password" name="password"></div>
-                                    <div class="col-sm-6"><input class="form-control form-control-user" type="password" id="exampleRepeatPasswordInput" placeholder="Repeat Password" name="password_repeat"></div>
-                                </div><button class="btn btn-primary d-block btn-user w-100" type="submit">Register Account</button>
-                                <hr><a class="btn btn-primary d-block btn-google btn-user w-100 mb-2" role="button"><i class="fab fa-google"></i>&nbsp; Register with Google</a><a class="btn btn-primary d-block btn-facebook btn-user w-100" role="button"><i class="fab fa-facebook-f"></i>&nbsp; Register with Facebook</a>
-                                <hr>
-                            </form>
-                            <div class="text-center"><a class="small" href="/Reset%20Password.html">Forgot Password?</a></div>
-                            <div class="text-center"><a class="small" href="/login.html">Already have an account? Login!</a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <script src="/asssets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="/asssets/js/theme.js"></script>
+	<div class="container">
+		<div class="card shadow-lg o-hidden border-0 my-5">
+			<div class="card-body p-0">
+				<div class="row">
+					<div class="col-lg-5 d-none d-lg-flex">
+						<div class="flex-grow-1 bg-register-image" style="background-image: url(&quot;/asssets/img/dogs/86-Service.png&quot;);padding-left: 20px;margin-right: -33px;margin-left: 32px;"></div>
+					</div>
+					<div class="col-lg-7">
+						<div class="p-5">
+							<div class="text-center">
+								<h4 class="text-dark mb-4">Hello, Let's set up your Account!</h4>
+							</div>
+							<form class="user">
+								<div class="row mb-3">
+									<div class="col-sm-6 mb-3 mb-sm-0">
+										<input class="form-control form-control-user" id="exampleFirstName" name="first_name" placeholder="First Name" type="text">
+									</div>
+									<div class="col-sm-6">
+										<input class="form-control form-control-user" id="exampleFirstName" name="last_name" placeholder="Last Name" type="text">
+									</div>
+								</div>
+								<div class="mb-3">
+									<input aria-describedby="emailHelp" class="form-control form-control-user" id="exampleInputEmail" name="email" placeholder="Email Address" type="email">
+								</div>
+								<div class="row mb-3">
+									<div class="col-sm-6 mb-3 mb-sm-0">
+										<input class="form-control form-control-user" id="examplePasswordInput" name="password" placeholder="Password" type="password">
+									</div>
+									<div class="col-sm-6">
+										<input class="form-control form-control-user" id="exampleRepeatPasswordInput" name="password_repeat" placeholder="Repeat Password" type="password">
+									</div>
+								</div><button class="btn btn-primary d-block btn-user w-100" type="submit">Register Account</button>
+								<hr>
+								<a class="btn btn-primary d-block btn-google btn-user w-100 mb-2" role="button"><i class="fab fa-google"></i>&nbsp; Register with Google</a><a class="btn btn-primary d-block btn-facebook btn-user w-100" role="button"><i class="fab fa-facebook-f"></i>&nbsp; Register with Facebook</a>
+								<hr>
+							</form>
+							<div class="text-center">
+								<a class="small" href="/Reset%20Password.html">Forgot Password?</a>
+							</div>
+							<div class="text-center">
+								<a class="small" href="/login.html">Already have an account? Login!</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="/asssets/bootstrap/js/bootstrap.min.js">
+	</script> 
+	<script src="/asssets/js/theme.js">
+	</script>
 </body>
-
 </html>
